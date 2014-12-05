@@ -1,0 +1,190 @@
+{
+	"viewports" : [
+		{
+		 "name": "desktop",
+		 "viewport": {"width": 1040, "height": 768}
+		}
+		,{
+		 "name": "desktop",
+		 "viewport": {"width": 1340, "height": 768}
+		}
+	],
+	"grabConfigs" : [
+		{
+			"testName":"http://imfe.jnpe.ru"
+			,"url":"http://imfe.jnpe.ru"
+			,"hideSelectors": [
+				".banner-top",
+				".offer-card",
+				".category-item",
+				".brand__item"
+			],
+			"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		}
+		,
+		{
+			"testName":"http://imfe.jnpe.ru/m/"
+			,"url":"http://imfe.jnpe.ru/m/"
+			,"hideSelectors": [
+				".prpsl-sm-price",
+				".prpsl-geo",
+				".href-description",
+				".prpsl-sm-head"
+			],
+			"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName":"http://imfe.jnpe.ru/catalog/givisa/"
+			,"url":"http://imfe.jnpe.ru"
+			,"hideSelectors": [
+				".banner-top",
+				".owl-item",
+				".extra-content",
+				".offer-comments-count"
+			],
+			"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName":"http://imfe.jnpe.ru/m/catalog/givisa/"
+			,"url":"http://imfe.jnpe.ru"
+			,"hideSelectors": [
+				".prpsl-meta"
+			],
+			"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName":"http://imfe.jnpe.ru/profile/"
+			,"url":"http://imfe.jnpe.ru/profile/"
+			,"hideSelectors": [
+			],
+			"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName":"http://imfe.jnpe.ru/moscow/all/new/"
+			,"url":"http://imfe.jnpe.ru/moscow/all/new/"
+			,"hideSelectors": [
+				".banner-top",
+				".offer-card",
+				".category-item",
+				".brand__item"
+			],
+			"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName":"http://imfe.jnpe.ru/about/"
+			,"url":"http://imfe.jnpe.ru/about/"
+			,"hideSelectors": [
+			]
+			,"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName":"http://imfe.jnpe.ru/about/faq/"
+			,"url":"http://imfe.jnpe.ru/about/faq/"
+			,"hideSelectors": [
+			]
+			,"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName":"http://imfe.jnpe.ru/about/mobile/"
+			,"url":"http://imfe.jnpe.ru/about/mobile/"
+			,"hideSelectors": [
+			]
+			,"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName":"http://imfe.jnpe.ru/disclaimer-services/"
+			,"url":"http://imfe.jnpe.ru/disclaimer-services/"
+			,"hideSelectors": [
+			]
+			,"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName":"http://imfe.jnpe.ru/moscow/past/",
+			"url":"http://imfe.jnpe.ru/moscow/past/",
+			"hideSelectors": [
+				".offer-card",
+				".category-item"
+			]
+			,"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName": "http://imfe.jnpe.ru/gift-card/",
+			"url": 		"http://imfe.jnpe.ru/gift-card/",
+			"hideSelectors": [
+			]
+			,"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName": "https://imfe.jnpe.ru/about/feedback/",
+			"url": 		"https://imfe.jnpe.ru/about/feedback/",
+			"hideSelectors": [
+			]
+			,"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		},
+		{
+			"testName": "http://imfe.jnpe.ru/brand/letu_ru/",
+			"url": 		"http://imfe.jnpe.ru/brand/letu_ru/",
+			"hideSelectors": [
+				".b-brand__list__item__wrapper"
+			],
+			"removeSelectors": [
+			]
+			,"selectors":[
+				"body"
+			]
+		}
+	]
+}
+
