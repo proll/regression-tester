@@ -2,11 +2,11 @@
 	"viewports" : [
 		{
 		 "name": "desktop",
-		 "viewport": {"width": 1040, "height": 768}
+		 "viewport": {"width": 1040, "height": 2600}
 		}
 		,{
 		 "name": "desktop",
-		 "viewport": {"width": 1340, "height": 768}
+		 "viewport": {"width": 1340, "height": 2600}
 		}
 	],
 	"grabConfigs" : [
@@ -42,10 +42,9 @@
 			]
 		},
 		{
-			"testName":"http://bigbuzzy.ru/catalog/givisa/"
-			,"url":"http://bigbuzzy.ru"
+			"testName":"http://bigbuzzy.ru/catalog/yakitoria-ushak4/"
+			,"url":"http://bigbuzzy.ru/catalog/yakitoria-ushak4/"
 			,"hideSelectors": [
-				".banner-top",
 				".owl-item",
 				".extra-content",
 				".offer-comments-count"
@@ -57,8 +56,8 @@
 			]
 		},
 		{
-			"testName":"http://bigbuzzy.ru/m/catalog/givisa/"
-			,"url":"http://bigbuzzy.ru"
+			"testName":"http://bigbuzzy.ru/m/catalog/yakitoria-ushak4/"
+			,"url":"http://bigbuzzy.ru/m/catalog/yakitoria-ushak4/"
 			,"hideSelectors": [
 				".prpsl-meta"
 			],

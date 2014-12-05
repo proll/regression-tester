@@ -18,7 +18,7 @@ try {
 	var secretConfigJSON = fs.readFileSync(backstopConfigSecretPath);
 	var secretConfig = JSON.parse(secretConfigJSON);
 } catch (e) {
-	
+
 }
 
 var viewports = config.viewports;
@@ -95,7 +95,7 @@ function capturePageSelectors(url,grabConfigs,viewports,bitmaps_reference,bitmap
 				//HIDE SELECTORS WE WANT TO AVOID
 				grabConfig.hideSelectors.forEach(function(o,i,a){
 					casper.evaluate(function(o){
-						document.querySelectorAll(o).forEach(function(s){
+						Array.prototype.forEach.call(document.querySelectorAll(o), function(s, j){
 							s.style.visibility='hidden';
 						});
 					},o);
@@ -104,7 +104,7 @@ function capturePageSelectors(url,grabConfigs,viewports,bitmaps_reference,bitmap
 				//REMOVE UNWANTED SELECTORS FROM RENDER TREE
 				grabConfig.removeSelectors.forEach(function(o,i,a){
 					casper.evaluate(function(o){
-						document.querySelectorAll(o).forEach(function(s){
+						Array.prototype.forEach.call(document.querySelectorAll(o), function(s, j){
 							s.style.display='none';
 						});
 					},o);
