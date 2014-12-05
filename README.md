@@ -17,6 +17,7 @@ Learn more at [http://BackstopJS.org/](http://garris.github.io/BackstopJS/).
 ##HTTP Auth:
 
 If you have http auth on your testing pages
+
 1. create ./backstop.secret.json
 2. put auth details here
 
