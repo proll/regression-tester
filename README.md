@@ -13,3 +13,16 @@ Learn more at [http://BackstopJS.org/](http://garris.github.io/BackstopJS/).
 1. run ./install.sh — it does all magic from tutorial.
 2. run test for test config in 
 	$ grunt test
+
+##HTTP Auth:
+
+If you have http auth on your testing pages
+1. create ./backstop.secret.json
+2. put auth details here
+
+	{
+		"httpAuth": {
+			"user": "user",
+			"password": "password"
+		}
+	}
