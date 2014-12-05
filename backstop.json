@@ -11,8 +11,8 @@
 	],
 	"grabConfigs" : [
 		{
-			"testName":"http://ru-bbfe.jnpe.ru"
-			,"url":"http://ru-bbfe.jnpe.ru"
+			"testName":"http://bigbuzzy.ru"
+			,"url":"http://bigbuzzy.ru"
 			,"hideSelectors": [
 				".banner-top",
 				".offer-card",
@@ -27,8 +27,8 @@
 		}
 		,
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/m/"
-			,"url":"http://ru-bbfe.jnpe.ru/m/"
+			"testName":"http://bigbuzzy.ru/m/"
+			,"url":"http://bigbuzzy.ru/m/"
 			,"hideSelectors": [
 				".prpsl-sm-price",
 				".prpsl-geo",
@@ -42,8 +42,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/catalog/givisa/"
-			,"url":"http://ru-bbfe.jnpe.ru"
+			"testName":"http://bigbuzzy.ru/catalog/givisa/"
+			,"url":"http://bigbuzzy.ru"
 			,"hideSelectors": [
 				".banner-top",
 				".owl-item",
@@ -57,8 +57,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/m/catalog/givisa/"
-			,"url":"http://ru-bbfe.jnpe.ru"
+			"testName":"http://bigbuzzy.ru/m/catalog/givisa/"
+			,"url":"http://bigbuzzy.ru"
 			,"hideSelectors": [
 				".prpsl-meta"
 			],
@@ -69,8 +69,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/profile/"
-			,"url":"http://ru-bbfe.jnpe.ru/profile/"
+			"testName":"http://bigbuzzy.ru/profile/"
+			,"url":"http://bigbuzzy.ru/profile/"
 			,"hideSelectors": [
 			],
 			"removeSelectors": [
@@ -80,8 +80,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/moscow/all/new/"
-			,"url":"http://ru-bbfe.jnpe.ru/moscow/all/new/"
+			"testName":"http://bigbuzzy.ru/moscow/all/new/"
+			,"url":"http://bigbuzzy.ru/moscow/all/new/"
 			,"hideSelectors": [
 				".banner-top",
 				".offer-card",
@@ -95,8 +95,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/about/"
-			,"url":"http://ru-bbfe.jnpe.ru/about/"
+			"testName":"http://bigbuzzy.ru/about/"
+			,"url":"http://bigbuzzy.ru/about/"
 			,"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -106,8 +106,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/about/faq/"
-			,"url":"http://ru-bbfe.jnpe.ru/about/faq/"
+			"testName":"http://bigbuzzy.ru/about/faq/"
+			,"url":"http://bigbuzzy.ru/about/faq/"
 			,"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -117,8 +117,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/about/mobile/"
-			,"url":"http://ru-bbfe.jnpe.ru/about/mobile/"
+			"testName":"http://bigbuzzy.ru/about/mobile/"
+			,"url":"http://bigbuzzy.ru/about/mobile/"
 			,"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -128,8 +128,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/disclaimer-services/"
-			,"url":"http://ru-bbfe.jnpe.ru/disclaimer-services/"
+			"testName":"http://bigbuzzy.ru/disclaimer-services/"
+			,"url":"http://bigbuzzy.ru/disclaimer-services/"
 			,"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -139,8 +139,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru/moscow/past/",
-			"url":"http://ru-bbfe.jnpe.ru/moscow/past/",
+			"testName":"http://bigbuzzy.ru/moscow/past/",
+			"url":"http://bigbuzzy.ru/moscow/past/",
 			"hideSelectors": [
 				".offer-card",
 				".category-item"
@@ -152,8 +152,8 @@
 			]
 		},
 		{
-			"testName": "http://ru-bbfe.jnpe.ru/gift-card/",
-			"url": 		"http://ru-bbfe.jnpe.ru/gift-card/",
+			"testName": "http://bigbuzzy.ru/gift-card/",
+			"url": 		"http://bigbuzzy.ru/gift-card/",
 			"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -163,8 +163,8 @@
 			]
 		},
 		{
-			"testName": "https://ru-bbfe.jnpe.ru/about/feedback/",
-			"url": 		"https://ru-bbfe.jnpe.ru/about/feedback/",
+			"testName": "https://bigbuzzy.ru/about/feedback/",
+			"url": 		"https://bigbuzzy.ru/about/feedback/",
 			"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -174,8 +174,8 @@
 			]
 		},
 		{
-			"testName": "http://ru-bbfe.jnpe.ru/brand/letu_ru/",
-			"url": 		"http://ru-bbfe.jnpe.ru/brand/letu_ru/",
+			"testName": "http://bigbuzzy.ru/brand/letu_ru/",
+			"url": 		"http://bigbuzzy.ru/brand/letu_ru/",
 			"hideSelectors": [
 				".b-brand__list__item__wrapper"
 			],
