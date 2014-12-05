@@ -11,8 +11,8 @@
 	],
 	"grabConfigs" : [
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru"
-			,"url":"http://ru-bbfe.jnpe.ru.ru"
+			"testName":"http://ru-bbfe.jnpe.ru"
+			,"url":"http://ru-bbfe.jnpe.ru"
 			,"hideSelectors": [
 				".banner-top",
 				".offer-card",
@@ -27,8 +27,8 @@
 		}
 		,
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/m/"
-			,"url":"http://ru-bbfe.jnpe.ru.ru/m/"
+			"testName":"http://ru-bbfe.jnpe.ru/m/"
+			,"url":"http://ru-bbfe.jnpe.ru/m/"
 			,"hideSelectors": [
 				".prpsl-sm-price",
 				".prpsl-geo",
@@ -42,8 +42,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/catalog/givisa/"
-			,"url":"http://ru-bbfe.jnpe.ru.ru"
+			"testName":"http://ru-bbfe.jnpe.ru/catalog/givisa/"
+			,"url":"http://ru-bbfe.jnpe.ru"
 			,"hideSelectors": [
 				".banner-top",
 				".owl-item",
@@ -57,8 +57,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/m/catalog/givisa/"
-			,"url":"http://ru-bbfe.jnpe.ru.ru"
+			"testName":"http://ru-bbfe.jnpe.ru/m/catalog/givisa/"
+			,"url":"http://ru-bbfe.jnpe.ru"
 			,"hideSelectors": [
 				".prpsl-meta"
 			],
@@ -69,8 +69,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/profile/"
-			,"url":"http://ru-bbfe.jnpe.ru.ru/profile/"
+			"testName":"http://ru-bbfe.jnpe.ru/profile/"
+			,"url":"http://ru-bbfe.jnpe.ru/profile/"
 			,"hideSelectors": [
 			],
 			"removeSelectors": [
@@ -80,8 +80,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/moscow/all/new/"
-			,"url":"http://ru-bbfe.jnpe.ru.ru/moscow/all/new/"
+			"testName":"http://ru-bbfe.jnpe.ru/moscow/all/new/"
+			,"url":"http://ru-bbfe.jnpe.ru/moscow/all/new/"
 			,"hideSelectors": [
 				".banner-top",
 				".offer-card",
@@ -95,8 +95,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/about/"
-			,"url":"http://ru-bbfe.jnpe.ru.ru/about/"
+			"testName":"http://ru-bbfe.jnpe.ru/about/"
+			,"url":"http://ru-bbfe.jnpe.ru/about/"
 			,"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -106,8 +106,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/about/faq/"
-			,"url":"http://ru-bbfe.jnpe.ru.ru/about/faq/"
+			"testName":"http://ru-bbfe.jnpe.ru/about/faq/"
+			,"url":"http://ru-bbfe.jnpe.ru/about/faq/"
 			,"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -117,8 +117,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/about/mobile/"
-			,"url":"http://ru-bbfe.jnpe.ru.ru/about/mobile/"
+			"testName":"http://ru-bbfe.jnpe.ru/about/mobile/"
+			,"url":"http://ru-bbfe.jnpe.ru/about/mobile/"
 			,"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -128,8 +128,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/disclaimer-services/"
-			,"url":"http://ru-bbfe.jnpe.ru.ru/disclaimer-services/"
+			"testName":"http://ru-bbfe.jnpe.ru/disclaimer-services/"
+			,"url":"http://ru-bbfe.jnpe.ru/disclaimer-services/"
 			,"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -139,8 +139,8 @@
 			]
 		},
 		{
-			"testName":"http://ru-bbfe.jnpe.ru.ru/moscow/past/",
-			"url":"http://ru-bbfe.jnpe.ru.ru/moscow/past/",
+			"testName":"http://ru-bbfe.jnpe.ru/moscow/past/",
+			"url":"http://ru-bbfe.jnpe.ru/moscow/past/",
 			"hideSelectors": [
 				".offer-card",
 				".category-item"
@@ -152,8 +152,8 @@
 			]
 		},
 		{
-			"testName": "http://ru-bbfe.jnpe.ru.ru/gift-card/",
-			"url": 		"http://ru-bbfe.jnpe.ru.ru/gift-card/",
+			"testName": "http://ru-bbfe.jnpe.ru/gift-card/",
+			"url": 		"http://ru-bbfe.jnpe.ru/gift-card/",
 			"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -163,8 +163,8 @@
 			]
 		},
 		{
-			"testName": "https://ru-bbfe.jnpe.ru.ru/about/feedback/",
-			"url": 		"https://ru-bbfe.jnpe.ru.ru/about/feedback/",
+			"testName": "https://ru-bbfe.jnpe.ru/about/feedback/",
+			"url": 		"https://ru-bbfe.jnpe.ru/about/feedback/",
 			"hideSelectors": [
 			]
 			,"removeSelectors": [
@@ -174,8 +174,8 @@
 			]
 		},
 		{
-			"testName": "http://ru-bbfe.jnpe.ru.ru/brand/letu_ru/",
-			"url": 		"http://ru-bbfe.jnpe.ru.ru/brand/letu_ru/",
+			"testName": "http://ru-bbfe.jnpe.ru/brand/letu_ru/",
+			"url": 		"http://ru-bbfe.jnpe.ru/brand/letu_ru/",
 			"hideSelectors": [
 				".b-brand__list__item__wrapper"
 			],
